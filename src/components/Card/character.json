@@ -1,0 +1,53 @@
+[
+    {
+        "race": "human",
+        "name": "Landiarian",
+        "description": {
+            "ideology": "Monarchy",
+            "wealth": "Rich",
+            "location": "Realm of Landia",
+            "text": [
+                "Landia is the most prosper realm in the region of Agriria.",
+                "They're in the region rich region of resources.",
+                "Their realm is pacific/prudent."
+            ]
+        },
+        "voices": {
+            "intro": "../sounds/human/intro.wav"
+        }
+    },
+    {
+        "race": "orc",
+        "name": "Bruiorian",
+        "description": {
+            "ideology": "Militarism",
+            "wealth": "Poor",
+            "location": "Realm of Bruio",
+            "text": [
+                "Bruio is the most despair realm in the region of Agriria.",
+                "They're in the region where they have to fight everyday.",
+                "Their realm is hostile/careful."
+            ]
+        },
+        "voices": {
+            "intro": "../sounds/orc/intro.wav"
+        }
+    },
+    {
+        "race": "troll",
+        "name": "Rakalvian",
+        "description": {
+            "ideology": "Liberalism",
+            "wealth": "Stable",
+            "location": "Realm of Rakalvia",
+            "text": [
+                "Rakalvia is the commercial realm in the region of Agriria.",
+                "They're on the coast and so they are specialist of the seaworld.",
+                "Their realm is pacific."
+            ]
+        },
+        "voices": {
+            "intro": "../sounds/troll/intro.wav"
+        }
+    }
+]
